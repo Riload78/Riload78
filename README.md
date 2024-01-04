@@ -29,6 +29,16 @@
 - Adobe Certified Expert-Magento [Ver](https://www.credly.com/badges/dbcd7718-dfd9-4a80-ac63-35b1cf49eb23/linked_in_profile)
 - Full Stack Jr. Bootcamp [Ver](https://app.certif-id.com/expert/public/share/MGjdXPZhdPZUxiyr_TVq)
 
+## Educación
+### Full Stack Web Bootcamp Keepcoding
+*En curso*
+### Full Stack Jr. Bootcamp Keepcoding
+*Manejo de Python en backend con flask y creación de APIs flask (Marzo 2023 - Septiembre 2023)*
+### CICE - Master Diseño y Desarrollo Web
+*Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos (2014 - 2014)*
+
+### Josefa Valcarcel - Técnico Superior en Imagen
+*(1998 - 2000)*
 ## Experiencia
 ### Next eCommerce - Front End Developer Magento
 *septiembre de 2016 - Presente (7 años 5 meses)*
@@ -57,16 +67,6 @@
 ### Equipos de telecomunicacion - Instalacion de equipos de telecomunicacion
 *enero de 2003 - enero de 2007 (4 años 1 mes)*
 
-## Educación
-### Full Stack Web Bootcamp Keepcoding
-*En curso*
-### Full Stack Jr. Bootcamp Keepcoding
-*Manejo de Python en backend con flask y creación de APIs flask (Marzo 2023 - Septiembre 2023)*
-### CICE - Master Diseño y Desarrollo Web
-*Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos (2014 - 2014)*
-
-### Josefa Valcarcel - Técnico Superior en Imagen
-*(1998 - 2000)*
 
 ## Idiomas
 - Inglés
