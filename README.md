@@ -6,20 +6,23 @@
 
 ## Aptitudes principales
 
-<div class="tag-cloud">
-  <span>Magento</span>
-  <span>HTML5</span>
-  <span>CSS</span>
-  <span>LESS</span>
-  <span>SASS</span>
-  <span>JQuery</span>
-  <span>JavaScript</span>
-  <span>PHP</span>
-  <span>MySQL</span>
-  <span>Python</span>
-  <span>Git</span>
-  <span>Wordpress</span>
-</div>
+![Static Badge](https://img.shields.io/badge/HTML-8A2BE2)
+![Static Badge](https://img.shields.io/badge/CSS-CC79FC)
+![Static Badge](https://img.shields.io/badge/LESS-ECA6FC)
+![Static Badge](https://img.shields.io/badge/SASS-F679FC)
+![Static Badge](https://img.shields.io/badge/JAVASCRIPT-EDEB72)
+![Static Badge](https://img.shields.io/badge/JQUERY-EDCE72)
+![Static Badge](https://img.shields.io/badge/PHP-DA9064)
+![Static Badge](https://img.shields.io/badge/MYSQL-F5714E)
+![Static Badge](https://img.shields.io/badge/PYTHON-F55B71)
+![Static Badge](https://img.shields.io/badge/FLASK-BD415B)
+
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP-79A6FC)
+![Static Badge](https://img.shields.io/badge/TAILDWIND-4C8AF5)
+
+![Static Badge](https://img.shields.io/badge/MAGENTO-D93B04)
+![Static Badge](https://img.shields.io/badge/WORDPRESS-F57943)
+
 
 ## Certificaciones
 - Front end Developer Magento Certification (Magento 1)
@@ -55,6 +58,8 @@
 *enero de 2003 - enero de 2007 (4 años 1 mes)*
 
 ## Educación
+### Full Stack Web Bootcamp Keepcoding
+*En curso*
 ### Full Stack Jr. Bootcamp Keepcoding
 *Manejo de Python en backend con flask y creación de APIs flask (Marzo 2023 - Septiembre 2023)*
 ### CICE - Master Diseño y Desarrollo Web
@@ -63,26 +68,6 @@
 ### Josefa Valcarcel - Técnico Superior en Imagen
 *(1998 - 2000)*
 
-
-
-
 ## Idiomas
 - Inglés
 
-
-<style>
-.tag-cloud {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 10px;
-}
-
-.tag-cloud span {
-  background-color: #f4f4f4;
-  padding: 5px 10px;
-  border-radius: 5px;
-  color:tomato;
-  font-weight: 600;
-}
-</style>
