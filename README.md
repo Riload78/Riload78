@@ -23,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/MAGENTO-D93B04)
 ![Static Badge](https://img.shields.io/badge/WORDPRESS-F57943)
 
+![Static Badge](https://img.shields.io/badge/GIT-94E33B)
+
 
 ## Certificaciones
 - Front end Developer Magento Certification (Magento 1)
