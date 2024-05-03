@@ -19,10 +19,21 @@
 
 ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-79A6FC)
 ![Static Badge](https://img.shields.io/badge/TAILDWIND-4C8AF5)
+![Static Badge](https://img.shields.io/badge/MUI-4C8AF5)
 
+![Static Badge](https://img.shields.io/badge/MONGO-D93B04)
+![Static Badge](https://img.shields.io/badge/MYSQL-D93B04)
 ![Static Badge](https://img.shields.io/badge/MAGENTO-D93B04)
 ![Static Badge](https://img.shields.io/badge/WORDPRESS-F57943)
 
+![Static Badge](https://img.shields.io/badge/GIT-94E33B)
+![Static Badge](https://img.shields.io/badge/NPM-94E33B)
+![Static Badge](https://img.shields.io/badge/ESLINT-94E33B)
+![Static Badge](https://img.shields.io/badge/RESTfullAPI-94E33B)
+![Static Badge](https://img.shields.io/badge/JWT-94E33B)
+![Static Badge](https://img.shields.io/badge/MVC-94E33B)
+![Static Badge](https://img.shields.io/badge/VITE-94E33B)
+![Static Badge](https://img.shields.io/badge/PARCEL-94E33B)
 ![Static Badge](https://img.shields.io/badge/GIT-94E33B)
 
 
